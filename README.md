@@ -52,15 +52,6 @@
 | Bootstrap | UI Framework |
 | Chart.js | Data Visualization |
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="./images/dashboard.png" alt="Dashboard" width="400"/>
-  <img src="./images/workout-planner.png" alt="Workout Planner" width="400"/>
-  <img src="./images/food-scanner.png" alt="Food Scanner" width="400"/>
-  <img src="./images/progress-charts.png" alt="Progress Charts" width="400"/>
-</div>
-
 ## 🚀 Quick Start
 
 ```bash
