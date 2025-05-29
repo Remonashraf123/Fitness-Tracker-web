@@ -1,6 +1,9 @@
-# 💪 Fitness Tracker Web Application
+# 💪 Fitness Tracker Demo - Web Edition
 
-> A comprehensive web-based fitness tracking application that helps users monitor their workout routines, track progress, and achieve their fitness goals.
+![Live Demo Screenshot](https://github.com/user-attachments/assets/09b6c732-0cd9-40d5-a38d-1de569dd051b)
+![image](https://github.com/user-attachments/assets/c914be34-8dff-4d35-851d-8174a0fbd26d)
+
+> A real-time fitness tracking web application that uses TensorFlow.js and pose detection to monitor exercise form, count repetitions, and provide feedback — all through your webcam!
 
 [View Demo](https://your-demo-link.com) | [Report Bug](https://github.com/yourusername/Fitness-Tracker-web-demo/issues) | [Request Feature](https://github.com/yourusername/Fitness-Tracker-web-demo/issues)
 
