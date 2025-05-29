@@ -5,6 +5,10 @@
 
 > A real-time fitness tracking web application that uses TensorFlow.js and pose detection to monitor exercise form, count repetitions, and provide feedback — all through your webcam!
 
+[View Demo](https://your-demo-link.com) | [Report Bug](https://github.com/yourusername/Fitness-Tracker-web-demo/issues) | [Request Feature](https://github.com/yourusername/Fitness-Tracker-web-demo/issues)
+
+![Fitness Tracker Dashboard][dashboard-screenshot]
+
 ## ✨ Features
 
 * **🔐 User Authentication**
@@ -33,6 +37,14 @@
 | **Bicep Curls**| ![](https://i.pinimg.com/originals/68/4d/50/684d50925eabbdf60f66d4bf7013c9ef.gif) |
 | **Push-ups**   | ![](https://i.pinimg.com/originals/fd/bb/09/fdbb092b58863e5c86fdb8bb1411fcea.gif) |
 | **Pull-ups**   | ![](https://tunturi.org/Blogs/2022/09-pull-up.gif) |
+
+## 🍎 Food Scanner Interface
+
+| Screen | Description |
+|--------|-------------|
+| ![AI Food Scanner Upload](https://github.com/user-attachments/assets/capture1.png) | Initial screen with camera and upload options |
+| ![Food Detection Results](https://github.com/user-attachments/assets/capture2.png) | Detailed nutrition information with confidence score |
+| ![AI Meal Planning](https://github.com/user-attachments/assets/capture3.png) | AI-powered meal planning suggestions |
 
 ## 🛠️ Technology Stack
 
