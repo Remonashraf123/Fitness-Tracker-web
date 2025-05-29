@@ -38,9 +38,9 @@
 
 | Screen | Description |
 |--------|-------------|
-(![image](https://github.com/user-attachments/assets/e5c3b54f-ae1b-4ca4-92e1-ea5b39b9f85f) | Initial screen with camera and upload options |
-(![image](https://github.com/user-attachments/assets/db41eadb-f7f2-4a79-87a0-c889b167f8b7) | Detailed nutrition information with confidence score |
-(![image](https://github.com/user-attachments/assets/2c1bcd11-9d5c-497f-a9ba-bba08849c106) | Caloreis-AI meal planning suggestions |
+![image](https://github.com/user-attachments/assets/e5c3b54f-ae1b-4ca4-92e1-ea5b39b9f85f) | Initial screen with camera and upload options |
+![image](https://github.com/user-attachments/assets/db41eadb-f7f2-4a79-87a0-c889b167f8b7) | Detailed nutrition information with confidence score |
+![image](https://github.com/user-attachments/assets/2c1bcd11-9d5c-497f-a9ba-bba08849c106) | Caloreis-AI meal planning suggestions |
 
 ## 🛠️ Technology Stack
 
