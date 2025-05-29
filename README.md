@@ -42,9 +42,12 @@
 
 | Screen | Description |
 |--------|-------------|
-| ![AI Food Scanner Upload](https://github.com/user-attachments/assets/capture1.png) | Initial screen with camera and upload options |
-| ![Food Detection Results](https://github.com/user-attachments/assets/capture2.png) | Detailed nutrition information with confidence score |
-| ![AI Meal Planning](https://github.com/user-attachments/assets/capture3.png) | AI-powered meal planning suggestions |
+| ![AI Food Scanner Upload](![image](https://github.com/user-attachments/assets/e5c3b54f-ae1b-4ca4-92e1-ea5b39b9f85f)
+) | Initial screen with camera and upload options |
+| ![Food Detection Results](![image](https://github.com/user-attachments/assets/db41eadb-f7f2-4a79-87a0-c889b167f8b7)
+) | Detailed nutrition information with confidence score |
+| ![AI Meal Planning](![image](https://github.com/user-attachments/assets/2c1bcd11-9d5c-497f-a9ba-bba08849c106)
+) | Caloreis-AI meal planning suggestions |
 
 ## 🛠️ Technology Stack
 
@@ -110,11 +113,3 @@ Please add the following images to the `/images` directory:
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📧 Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
-
-Project Link: [https://github.com/yourusername/Fitness-Tracker-web-demo](https://github.com/yourusername/Fitness-Tracker-web-demo)
-
-[dashboard-screenshot]: ./images/dashboard.png
