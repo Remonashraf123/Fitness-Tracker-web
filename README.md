@@ -1,38 +1,30 @@
-# 💪 Fitness Tracker Demo - Web Edition
+# 💪 Fitness Tracker Web Application
 
-![Live Demo Screenshot](https://github.com/user-attachments/assets/09b6c732-0cd9-40d5-a38d-1de569dd051b)
-![image](https://github.com/user-attachments/assets/c914be34-8dff-4d35-851d-8174a0fbd26d)
+> A comprehensive web-based fitness tracking application that helps users monitor their workout routines, track progress, and achieve their fitness goals.
 
-> A real-time fitness tracking web application that uses TensorFlow.js and pose detection to monitor exercise form, count repetitions, and provide feedback — all through your webcam!
+[View Demo](https://your-demo-link.com) | [Report Bug](https://github.com/yourusername/Fitness-Tracker-web-demo/issues) | [Request Feature](https://github.com/yourusername/Fitness-Tracker-web-demo/issues)
 
----
+![Fitness Tracker Dashboard][dashboard-screenshot]
 
-## 🚀 Features
+## ✨ Features
 
-- 🎯 **Real-Time Pose Detection** – powered by TensorFlow.js and MoveNet/PoseNet.
-- 🧠 **Exercise Recognition** – smart logic to detect current movements.
-- 🔁 **Repetition Counting** – via angle thresholds and state machine logic.
-- 🛡️ **Form Feedback** – real-time correction cues for safer workouts.
-- 🧾 **Exercise Library** – supports multiple common exercises.
-- 💬 **Assistant Chatbot** – built-in chatbot to guide users, answer questions, and suggest form improvements or workout tips during your session.
-
----
-
-## 🛠️ Technical Stack
-
-- **Frontend**: React + TypeScript  
-- **Styling**: Tailwind CSS  
-- **UI Library**: Shadcn UI  
-- **Pose Detection**: TensorFlow.js with MoveNet/PoseNet  
-- **State Management**: React Hooks + Context API  
-
----
-
-## 🔐 Privacy First
-
-All pose estimation runs **entirely in-browser**. No video or data is uploaded — your privacy is respected by design.
-
----
+* **🔐 User Authentication**
+  - Secure login and registration
+  - Profile management
+  
+* **📊 Workout Management**
+  - Custom workout planning
+  - Progress tracking with charts
+  - Exercise library with instructions
+  
+* **🎯 Goal Setting**
+  - Set and track fitness goals
+  - Achievement monitoring
+  
+* **📱 Food Scanner**
+  - Scan food items
+  - Get nutritional information
+  - Track daily intake
 
 ## 🏋️ Supported Exercises
 
@@ -43,47 +35,75 @@ All pose estimation runs **entirely in-browser**. No video or data is uploaded �
 | **Push-ups**   | ![](https://i.pinimg.com/originals/fd/bb/09/fdbb092b58863e5c86fdb8bb1411fcea.gif) |
 | **Pull-ups**   | ![](https://tunturi.org/Blogs/2022/09-pull-up.gif) |
 
----
+## 🛠️ Technology Stack
 
-## 🧪 Getting Started
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Functionality |
+| Bootstrap | UI Framework |
+| Chart.js | Data Visualization |
 
-> Follow these steps to get the app running locally:
+## 📸 Screenshots
 
-### 1. 📦 Clone the repo
+<div align="center">
+  <img src="./images/dashboard.png" alt="Dashboard" width="400"/>
+  <img src="./images/workout-planner.png" alt="Workout Planner" width="400"/>
+  <img src="./images/food-scanner.png" alt="Food Scanner" width="400"/>
+  <img src="./images/progress-charts.png" alt="Progress Charts" width="400"/>
+</div>
+
+## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/Ma7moud12975/Fitness-Tracker-web-v1.git
-cd Fitness-Tracker-web-v1
+# Clone the repository
+git clone https://github.com/yourusername/Fitness-Tracker-web-demo
+
+# Navigate to project
+cd Fitness-Tracker-web-demo
+
+# Open in browser
+start index.html  # Windows
+open index.html   # macOS
 ```
 
-### 2. 📥 Install dependencies
+## 📂 Project Structure
 
-```bash
-npm install
+```
+📦 Fitness-Tracker-web-demo
+ ┣ 📂 css
+ ┣ 📂 js
+ ┣ 📂 images
+ ┣ 📜 index.html
+ ┗ 📜 README.md
 ```
 
-### 3. 🧪 Start the dev server
+## Contributing
 
-```bash
-npm run dev
-```
+1. Fork the repository
+2. Create your feature branch: `git checkout -b feature/NewFeature`
+3. Commit your changes: `git commit -m 'Add NewFeature'`
+4. Push to the branch: `git push origin feature/NewFeature`
+5. Submit a pull request
 
-### 4. 🌐 Open the app
+## Image Requirements
 
-Go to [http://localhost:3000](http://localhost:3000) in your browser.
+Please add the following images to the `/images` directory:
+- dashboard.png - Main dashboard screenshot
+- workout-planner.png - Workout planning interface
+- progress-charts.png - Progress tracking charts
+- food-scanner.png - Food Scanner interface and nutrition details
+- (Add any other relevant screenshots)
 
-### 5. 🎥 Allow camera access
+## 📝 License
 
-When prompted, **allow** access to your webcam to enable pose detection.
+Distributed under the MIT License. See `LICENSE` for more information.
 
-### 6. 🏋️ Start exercising!
+## 📧 Contact
 
-Choose your exercise, get in position, and the tracker will do the rest!
+Your Name - [@your_twitter](https://twitter.com/your_twitter)
 
----
+Project Link: [https://github.com/yourusername/Fitness-Tracker-web-demo](https://github.com/yourusername/Fitness-Tracker-web-demo)
 
-## 🌟 Inspiration
-
-This project was inspired by the Python-based [Fitness Tracker Pro](https://github.com/a1harfoush/Fitness_Tracker_Pro), adapted for the modern web using JS and TensorFlow.js.
-
-![Inspiration](https://github.com/user-attachments/assets/3c369613-96d2-48a4-b302-b330bd863fec)
+[dashboard-screenshot]: ./images/dashboard.png
